@@ -24,16 +24,6 @@
 
 ---
 
-## 💼 Experience
-
-- 🧠 **Professor Assistant** – University of Costa Rica (2023–Present)  
-  • Exam correction, tutoring, and class support
-
-- 🔧 **Electrician Assistant** – SecSA (2015–2022)  
-  • Assisted with electrical installations and maintenance in a family business
-
----
-
 ## 🎯 Interests & Goals
 
 - 🚀 Full-stack development
